@@ -14,3 +14,5 @@ O loader de carregamento dos plugins da RelicPlugins.
 
 - /relicbungee help <plugin> - Para BungeeCord
 
+- /relicvelocity help <plugin> - Para Velocity
+
