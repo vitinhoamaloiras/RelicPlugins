@@ -16,3 +16,6 @@ O loader de carregamento dos plugins da RelicPlugins.
 
 - /relicvelocity help <plugin> - Para Velocity
 
+- /relicanuncios reload - relicanuncios.command.reload
+
+- /relictimer reload - relictimer.command.reload
