@@ -1,16 +1,20 @@
 # RelicPlugins
-O loader de carregamento dos plugins da RelicPlugins.
 
-## Funcionalidades
-
-- Compatível nas versões 1.8.8 até 1.21.
-- Sempre recebendo novos updates.
-- Plugin totalmente otimizado.
+Plugin essencial para o funcionamento de todos os outros plugins da RelicPlugins.
 
 ## Comandos
 
-- /relicplugins (Comando principal do plugin)
+|Comando         |Descrição                      |Permissão                    |
+|----------------|-------------------------------|-----------------------------|
+|/relicplugins |Comando principal do plugin|relicplugins.admin.command    |
 
-## Permissões
+## Download
 
-- relicplugins.admin.command (Comando /relicplugins)
+Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/vitinhoamaloira/RelicPlugins/releases).
+
+## Dependências
+
+### Opcionais
+
+- Para utilizar os nossos plugins, recomendamos que utilize em seu servidor os seguintes plugins:
+- Vault, DecentHolograms, Citizens e PlaceholderAPI
