@@ -10,7 +10,7 @@ Plugin essencial para o funcionamento de todos os outros plugins da RelicPlugins
 
 ## Download
 
-Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/vitinhoamaloira/RelicPlugins/releases).
+Você pode encontrar o plugin pronto para baixar [**aqui**](https://github.com/vitinhoamaloiras/RelicPlugins/releases).
 
 ## Dependências
 
