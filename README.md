@@ -6,7 +6,7 @@ Plugin essencial para o funcionamento de todos os outros plugins da RelicPlugins
 
 |Comando         |Descrição                      |Permissão                    |
 |----------------|-------------------------------|-----------------------------|
-|/relicplugins |Comando principal do plugin|relicplugins.admin.command    |
+|/relic reload |Comando de reload dos plugins|relicplugins.admin.command    |
 
 ## Download
 
